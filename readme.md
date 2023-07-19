@@ -1,3 +1,3 @@
 # MellowMaxPooling CNN
 
-A project to investigate the plausability of a MellowMaxPooling layer with a trainable weight parameter.
+The aim of this project is to investigate the plausability of a MellowMaxPooling layer with a trainable weight parameter.
